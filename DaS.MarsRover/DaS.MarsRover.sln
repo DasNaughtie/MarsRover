@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaS.MarsRover.Application", "DaS.MarsRover.Application\DaS.MarsRover.Application.csproj", "{BD74F6A3-2A3B-4936-9DEE-7B4AE85FC32B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaS.MarsRover.Domain", "DaS.MarsRover.Domain\DaS.MarsRover.Domain.csproj", "{8AD508BE-504E-4531-9BA5-37C6909B8CCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaS.MarsRover.UnitTests", "DaS.MarsRover.UnitTests\DaS.MarsRover.UnitTests.csproj", "{45425ADF-AB36-4C4D-98EC-2583D6067792}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF7819F3-5C2C-43AE-8875-2A25F856137E}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD74F6A3-2A3B-4936-9DEE-7B4AE85FC32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD74F6A3-2A3B-4936-9DEE-7B4AE85FC32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD74F6A3-2A3B-4936-9DEE-7B4AE85FC32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD74F6A3-2A3B-4936-9DEE-7B4AE85FC32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AD508BE-504E-4531-9BA5-37C6909B8CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD508BE-504E-4531-9BA5-37C6909B8CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD508BE-504E-4531-9BA5-37C6909B8CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD508BE-504E-4531-9BA5-37C6909B8CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45425ADF-AB36-4C4D-98EC-2583D6067792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45425ADF-AB36-4C4D-98EC-2583D6067792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45425ADF-AB36-4C4D-98EC-2583D6067792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45425ADF-AB36-4C4D-98EC-2583D6067792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57022128-8ED9-4336-B6C5-23E8984A3D12}
+	EndGlobalSection
+EndGlobal
